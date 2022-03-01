@@ -1,9 +1,9 @@
 <?php include ("header.php"); ?>
 <section>
+    <div class="container">
 
-<body>
-hello world
-</body>
+    </div>
+
 
 </section>
 <?php include ("footer.php") ?>
